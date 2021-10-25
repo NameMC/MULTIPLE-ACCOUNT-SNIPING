@@ -32,14 +32,7 @@ If you have any problems following these steps you can contact me by Discord:
 slow#9116
 ```
 
-# IV. Sign up for AWS
+# Discontinued
 
-The first step is creating an account on the official [AWS website](https://aws.amazon.com/). After you have made an account, begin the free trial for AWS. Select the EC2 750 Hours plan:
-![EC2](https://i.gyazo.com/4ae731e390184799dc7c1300f1cd63ca.png)
+I'm sorry to announce that this article will never reach completion, as [Mojang condemns sniping with bots](https://twitter.com/Mojang_Ined/status/1448652087043133440). I cannot and will not publicly incite sniping if it poses any risk to me, so sadly, this guide will be left unfinished. If you need help with VPS sniping and are willing to take the risk, consult people [in a sniping Discord](https://discord.gg/FhcPQrX5EX) for an explanation.
 
-
-᲼᲼᲼᲼᲼᲼
-
-
-
-# `GUIDE IS NOT FINISHED, PLEASE WAIT FOR MORE UPDATES`
